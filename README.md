@@ -36,7 +36,7 @@ Aplicar los conceptos de control de versiones y gestión de cambios mediante el 
 | 2 | María Fernanda Chourio Linares | `feature/maria-chourio` | ⏳ Pendiente |
 | 3 | Everaldo Alejandro Fernández Villamar | `feature/everaldo-fernandez` | ⏳ Pendiente |
 | 4 | Mario Mauricio Jacho Cedeño | `feature/mario-jacho` | ⏳ Pendiente |
-| 5 | Rubén Alfredo Quiroga Peralta | `feature/ruben-quiroga` | ⏳ Pendiente |
+| 5 | Rubén Alfredo Quiroga Peralta | `feature/ruben-quiroga` | 🔧 En preparación |
 | 6 | Ronny Andrés Sánchez Moriel | `feature/ronny-sanchez` | ⏳ Pendiente |
 | 7 | Alonso Mikkail Serrano Abarca | `feature/alonso-serrano` | ⏳ Pendiente |
 | 8 | Elías Hernán Vera Landázuri | `feature/elias-vera` | ⏳ Pendiente |
@@ -49,7 +49,7 @@ Aplicar los conceptos de control de versiones y gestión de cambios mediante el 
 
 *(Cada integrante agregará su aporte desde su rama `feature/[NOMBRE]` y lo integrará a `main` mediante un Pull Request).*
 
-- *Aportes pendientes de integración...*
+- **Rubén Alfredo Quiroga Peralta** — Preparación de su aporte individual en la rama `feature/ruben-quiroga` y actualización del registro de participación del Grupo D.
 
 ---
 
